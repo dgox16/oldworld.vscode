@@ -1,9 +1,13 @@
 # Change Log
 
-All notable changes to the "oldworld" extension will be documented in this file.
+## v0.0.4 (2025-04-08)
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Modified
 
-## [Unreleased]
+- The color of the highlights were changed at the time of searching
 
-- Initial release
+## v0.0.3 (2025-04-07)
+
+### Added
+
+- Added icon for the theme.
